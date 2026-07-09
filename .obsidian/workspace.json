@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "fa809886afe8b4ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "40a2646d8529b5c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d3f364e4bbd2e5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API Design/REST.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REST"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d9162511dde76cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "267ffecff602d833",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04e8bdc6752066f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c2082552834d3fea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c8a518f4e8de50e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 454.5
+  },
+  "right": {
+    "id": "7012449142786b2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fefcc5823e95a674",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eb6e9cb2772c77f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "API Design/REST.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for REST"
+            }
+          },
+          {
+            "id": "25bafc45b9fb6b36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Software Architecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Software Architecture"
+            }
+          },
+          {
+            "id": "d692cad42b3788d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "028e5e07a7c7e136",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "69ccd24d4108dcd5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software Architecture.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Software Architecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "04e8bdc6752066f2",
+  "lastOpenFiles": [
+    "Dependency Inversion.md",
+    "Software Architecture.md",
+    "SOLID.md",
+    "API Design/REST.md",
+    "API Design/Attachments/Pasted image 20260630211511.png",
+    "API Design/Attachments/Pasted image 20260630205755.png",
+    "API Design/Attachments/Pasted image 20260630202313.png",
+    "API Design/Attachments",
+    "Domain Driven Design/Anemic-domain VS Rich-domain Models.md",
+    "Microservices/Outbox Pattern.md",
+    "Domain Driven Design/DDD.md",
+    "Domain Driven Design/Aggregate Root.md",
+    "Domain Driven Design",
+    "Microservices/Principles/Separation of Concerns (SoC).md",
+    "Microservices/Principles/KISS.md",
+    "CA/Clean Architecture.md",
+    "Microservices/Principles/YAGNI.md",
+    "Microservices/Principles",
+    "Microservices",
+    "Untitled.base",
+    "Untitled.canvas",
+    "SOLID/Dependency Inversion.md",
+    "SOLID/Attachments/Pasted image 20260528123259.png",
+    "SOLID/Attachments/Pasted image 20260528123039.png",
+    "SOLID/Attachments",
+    "Onion Architecture/Onion Architecture.md",
+    "Onion Architecture/Attachments/Pasted image 20260528121541.png",
+    "Pasted image 20260525185819.png",
+    "Onion Architecture/Attachments/Pasted image 20260528121548.png",
+    "Pasted image 20260525174346.png",
+    "CA/Attachments/Pasted image 20260528121707.png",
+    "CA/Attachments",
+    "Onion Architecture/Attachments",
+    "Onion Architecture",
+    "CA/Interface Adapters.md",
+    "CA/Framework And Drivers.md",
+    "CA/Domain.md",
+    "CA/Application.md",
+    "SOLID",
+    "API Design/gRPC.md",
+    "CA/ API.md",
+    "create a link.md"
+  ]
+}
