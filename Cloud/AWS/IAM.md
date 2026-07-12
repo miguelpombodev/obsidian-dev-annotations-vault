@@ -1,0 +1,5 @@
+O **IAM** (Identity and Access Management) é o gerenciador de acesso de identidade dentro de uma ambiente AWS, ou seja, aqui conseguimos criar usuários, grupos, segmentá-los, trabalhar com regras e etc. Basicamente, o IAM serve para organizar os usuários que tem ou não tem acesso a plataforma da AWS. A partir da conta root da AWS, conseguimos criar outros usuários e suas permissões, os grupos que estes usuários estarão. 
+
+Podemos também criar as “Roles” na AWS, e essas roles não são relacionadas ao usuário mas sim à serviços. Imaginemos, que temos um EC2 rodando Windows e esse servidor precisar acessar ao S3, só que o S3 também tem políticas de acesso e por padrão, ele restringe todo mundo. E criando as funções na AWS, conseguimos liberar essa máquina para acessar o serviço de storage.
+
+![[IAM_image.png]]
