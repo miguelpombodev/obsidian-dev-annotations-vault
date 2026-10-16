@@ -60,7 +60,7 @@ As aplicações web são executadas nos servidores dos provedores SaaS.
 
 Essa aplicações podem ser usadas no computador, tablet ou telefones, de maneira simples e remota. Por exemplo, **Salesforce**,
 
-### IaaS :crane:
+### IaaS 🏗️
 
 IaaS significa “Infrastructure As A Service”, e é onde permite que clientes aluguem um espaço em datacenter virtual oferecido por um servidor de IaaS, como a **Azure**, a **AWS**, o **GCP**, etc.
 
